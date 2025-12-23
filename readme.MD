@@ -9,6 +9,7 @@
 * Erra karam
 * oil
 
-# Egg Dosa
+## Egg Dosa
 * Dosa Batter
-* Egg and karam
+* 1/2 eggs and karam
+
