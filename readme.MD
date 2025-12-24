@@ -13,3 +13,5 @@
 * Dosa Batter
 * 1/2 eggs and karam
 
+## Ghee karam
+* Dosa Batter
